@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="396ebb25-54ed-44d8-bfa0-3421598afd21" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/encapsul1.js" beforeDir="false" afterPath="$PROJECT_DIR$/encapsulation/encapsul1.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/encapsul2.js" beforeDir="false" afterPath="$PROJECT_DIR$/encapsulation/encapsul2.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/encapsul3.js" beforeDir="false" afterPath="$PROJECT_DIR$/encapsulation/encapsul3.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/encapsul4.js" beforeDir="false" afterPath="$PROJECT_DIR$/encapsulation/encapsul4.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/encapsul5.js" beforeDir="false" afterPath="$PROJECT_DIR$/encapsulation/encapsul5.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/encapsul6.js" beforeDir="false" afterPath="$PROJECT_DIR$/encapsulation/encapsul6.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example7.js" beforeDir="false" afterPath="$PROJECT_DIR$/example7.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/krknutyun1.js" beforeDir="false" afterPath="$PROJECT_DIR$/krknutyun1.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="35CnacN4m3l54Da7QMuOgJMavzN" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Node.js.encapsul4.js.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultAutoModeForALLUsers.v1&quot;: &quot;true&quot;,
+    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Lenovo\Desktop\Homework\encapsulation" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-3aa1da707db6-JavaScript-WS-252.27397.92" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="396ebb25-54ed-44d8-bfa0-3421598afd21" name="Changes" comment="" />
+      <created>1762622987083</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1762622987083</updated>
+      <workItem from="1762622988363" duration="437000" />
+      <workItem from="1762725393122" duration="1156000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

@@ -271,6 +271,7 @@
 // // // // // // console.log(bank.withdraw(1700));
 
 
+
 // // // // // //24.10-3
 
 // // // // // class Student{
@@ -456,5 +457,98 @@
 // console.log(user.name);
 // console.log(user.age);
 
+
+// let arr = ["apple", "banana", "orange"];
+// function word_length(arr){
+//     let result = [];
+//     for(let i = 0;i < arr.length;i++){
+//         result.push(arr[i].length);
+//     }
+//     return result;
+// }
+// console.log(word_length(arr));
+
+// const obj = {
+//     a : 10,
+//     b : {
+//         a :20,
+//         fn : function(){
+//             console.log(this.a);
+//         },
+//     },
+
+// }
+// obj.b.fn();
+// const fn = obj.b.fn;
+// fn();
+
+// const person = {
+//     name: "John",
+//     surname: "Smith",
+//     get fullName(){
+//         return `${this.name} ${this.surname}`;
+//     },
+//     set fullName(fullName){
+//         [this.name, this.surname] = fullName.split(" ");
+//     }
+//     }
+//     const user = Object.create(person, {
+//         name: {
+//             value: "Mike"
+//         }
+//     })
+
+//     for(const key in user){
+//         console.log(user[key]);
+//     }
+
+// var prefix = "foo";
+// var myObject = {
+// [prefix + "bar"]: "hello",
+// [prefix + "baz"]: "world"
+// };
+// console.log(myObject["foobar"]); // hello
+// myObject["foobaz"]; // worl
+
+// var myobj = {
+//     a: 2
+// }
+// Object.defineProperty(myobj, "a", {
+//     writable: true,
+//     enumerable: false,
+//     configurable: true 
+// })
+// console.log(Object.getOwnPropertyDescriptors(myobj, "a"));
+
+
+// var myObject = {};
+// Object.defineProperty( myObject, "a", {
+// value: 2,
+// writable: false, // not writable!
+// configurable: true,
+// enumerable: true
+// } );
+// myObject.a = 3;
+// myObject.a; 
+
+
+// let num = 26;
+// var reverse  = 0;
+// while(num > 0){
+//     var digit = Math.floor(num % 10);
+//     reverse = reverse * 10 + (num % 10);
+//     num = Math.floor(num /= 10);
+// }
+// console.log(reverse);
+
+
+// let obj = {
+//     a: 20,
+//     function(){
+//         console.log("Hello")
+//     }
+// };
+// console.log(Object.__proto__ === Function.prototype);
+// "Traditional JS Class" `Vehicle`
 
 
